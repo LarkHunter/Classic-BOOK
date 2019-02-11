@@ -1,0 +1,9 @@
+《c陷阱与缺陷》
+《C++ exception》
+《more C++ exception》
+
+《Effictive C++》
+《more Effictive C++》
+
+《深入探索C++对象模型》
+《指针用类的构造和析构原理》
